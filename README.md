@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Rushbh (@RushbhXD)
+# 👋 Hey, I’m Rushbh Mistry
 
 - 📧 Email: **rushbhmistry20004@gmail.com**  
 - 🤖 Passionate about **Generative AI, LLMs, AI Agents, RAG, LangChain & Automation**  
