@@ -8,4 +8,3 @@ I build things with AI and backend systems. Most of my work involves LLMs, RAG p
 - Git, Linux, n8n
 - typescript, bun, mastra.ai
   
-📧 rushbhmistry20004@gmail.com • [LinkedIn](your-linkedin-link)
