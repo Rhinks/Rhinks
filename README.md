@@ -1,6 +1,11 @@
-# 👋 Hey, I’m Rushbh Mistry
+# Hey, I'm Rushbh
 
-- 📧 Email: **rushbhmistry20004@gmail.com**  
-- 🤖 Passionate about **Generative AI, LLMs, AI Agents, RAG, LangChain & Automation**  
-- 🐧 Long-time **Linux** enthusiast  
-- ⚡ Always building, breaking, and learning  
+I build things with AI and backend systems. Most of my work involves LLMs, RAG pipelines, and automation. Also spend way too much time on Linux.
+
+**What I work with:**
+- Python, FastAPI, Firebase
+- LLMs & AI Agents (LangChain, OpenAI, Gemini)
+- Git, Linux, n8n
+- typescript, bun, mastra.ai
+  
+📧 rushbhmistry20004@gmail.com • [LinkedIn](your-linkedin-link)
